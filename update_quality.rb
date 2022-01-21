@@ -1,8 +1,6 @@
 require 'award_updater'
 
 class UpdateQuality
-
-
   def initialize(awards)
     @awards = awards
   end
